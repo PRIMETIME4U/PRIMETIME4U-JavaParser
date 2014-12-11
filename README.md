@@ -7,4 +7,4 @@ Parser in java che parsa la pagina di staseraintv.com relativa ai film in PRIMA 
 
 Usa la libreria JSoup ( http://jsoup.org/packages/jsoup-1.8.1.jar )
 
-Il parser l'ho sviluppato in Eclipse, se importate il progetto ricordatevi di aggiungere Jsoup come libreria esterna! (click col destro sul progetto, proprietà, libraries, add external library e selezionate il jar scaricato)
+Il parser l'ho sviluppato in Eclipse, se importate il progetto ricordatevi di aggiungere Jsoup come libreria esterna! (click col destro sul progetto, import, archive files, browse e selezionate il jar scaricato)
